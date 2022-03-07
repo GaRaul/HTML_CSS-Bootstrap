@@ -1,0 +1,82 @@
+body {
+  background-image: url(../img/fondo.jpg);
+}
+
+.btn-login {
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+}
+
+.btn-google {
+  color: white !important;
+  background-color: #ea4335;
+}
+
+.btn-facebook {
+  color: white !important;
+  background-color: #3b5998;
+}
+
+h3 {
+  margin: 70px;
+  color: white;
+}
+
+h6 {
+  color: white;
+}
+
+p {
+  color: grey;
+}
+
+.form-floating {
+  color: grey;
+}
+
+.d-flex {
+  margin-top: 50px;
+  justify-content: center;
+  text-align: center;
+  background: black;
+}
+
+.rrssBtn {
+  margin: 10px;
+  background-color: rgb(19, 16, 16);
+  border: whitesmoke 0.5px solid;
+}
+
+.loginBtn {
+background-color: rgb(80, 185, 204);
+color:black;
+}
+
+.candado{
+    height: 20vh;
+    width: auto;
+    position: absolute;
+    right: 5px;
+    padding-bottom: 25px;
+}
+
+.facebookLogo{
+    height: 20px;
+    padding-bottom: 4px;
+}
+
+.twitterLogo{
+    height: 20px;
+    padding-bottom: 4px;
+}
+
+.googleplusLogo{
+    height: 20px;
+    padding-bottom: 4px;
+}
+
+.degradado{
+    background: linear-gradient(to bottom, white 0%, white 35%, rgb(219, 218, 218) 35%, rgb(219, 218, 218) 100%);
+;
+}
